@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{9AD35DC7-1B02-4AAB-875B-A1D996978E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{06971D9E-75F5-42A0-99FA-D155B2BD4156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{D96001C2-2AAF-4906-9AC5-1B4DDF30DA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD35DC7-1B02-4AAB-875B-A1D996978E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD35DC7-1B02-4AAB-875B-A1D996978E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD35DC7-1B02-4AAB-875B-A1D996978E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD35DC7-1B02-4AAB-875B-A1D996978E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06971D9E-75F5-42A0-99FA-D155B2BD4156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06971D9E-75F5-42A0-99FA-D155B2BD4156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06971D9E-75F5-42A0-99FA-D155B2BD4156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06971D9E-75F5-42A0-99FA-D155B2BD4156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96001C2-2AAF-4906-9AC5-1B4DDF30DA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96001C2-2AAF-4906-9AC5-1B4DDF30DA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96001C2-2AAF-4906-9AC5-1B4DDF30DA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96001C2-2AAF-4906-9AC5-1B4DDF30DA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA23D5E1-DCEC-44D0-9A88-7738EAF2F3D8}
+	EndGlobalSection
+EndGlobal
